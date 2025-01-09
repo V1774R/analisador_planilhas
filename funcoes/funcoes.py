@@ -15,3 +15,7 @@ def fazerUpload(arquivo):
         return 'Arquivo enviado com sucesso!'
     
 
+def verificarNumeroDeAgentes(planilha):
+    lista = []
+    for linha in planilha:
+        print(linha)
