@@ -6,7 +6,7 @@ import about
 import plotly.express as px
 
 st.set_page_config(initial_sidebar_state='expanded')
-pagina = st.sidebar.selectbox("Menu de navegação", ["Sobre", "Inicio"])
+
 
 
 
